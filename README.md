@@ -2,7 +2,7 @@
   <img src="https://gravatar.com/avatar/c4f6dc10fc67fccbbaf3d3bd38f92f5d?s=120" width="120" />
   <h1>Emerson Nunes</h1>
   <p><strong>Full-stack developer from Coimbra 🇵🇹 — building things that last.</strong></p>
-  <p><a href="https://enunes.net">enunes.net</a></p>
+  <p><a href="https://enunes.net">https://enunes.net</a></p>
   </div>
 
   ---
@@ -17,9 +17,9 @@
 
   ### Stack
 
-  **Backend** — Laravel · NestJS · PHP · Node.js
-  **Frontend** — Nuxt · Next.js · Vue · React · TypeScript
-  **Data** — MySQL · PostgreSQL · MongoDB · Prisma
+  **Backend** — Laravel · NestJS · PHP · Node.js <br>
+  **Frontend** — Nuxt · Next.js · Vue · React · TypeScript <br>
+  **Data** — MySQL · PostgreSQL · MongoDB · Prisma <br>
   **Other** — Tailwind CSS · Docker · REST · GraphQL
 
   ---
