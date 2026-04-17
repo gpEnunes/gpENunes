@@ -1,13 +1,8 @@
 <div align="center">
-
-    <img src="https://gravatar.com/avatar/c4f6dc10fc67fccbbaf3d3bd38f92f5d?s=120" width="120" />
-
-    # Emerson Nunes
-
-    **Full-stack developer from Coimbra 🇵🇹 — building things that last.**
-
-    [enunes.net](https://enunes.net)
-
+  <img src="https://gravatar.com/avatar/c4f6dc10fc67fccbbaf3d3bd38f92f5d?s=120" width="120" />
+  <h1>Emerson Nunes</h1>
+  <p><strong>Full-stack developer from Coimbra 🇵🇹 — building things that last.</strong></p>
+  <p><a href="https://enunes.net">enunes.net</a></p>
   </div>
 
   ---
@@ -29,6 +24,4 @@
 
   ---
 
-  <div align="center">
-    <sub>Rock. Create. Live.</sub>
-  </div>
+  <div align="center"><sub>Rock. Create. Live.</sub></div>
