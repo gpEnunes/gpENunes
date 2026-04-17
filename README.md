@@ -11,8 +11,6 @@
 
   Software craftsman with 5+ years of experience. I care about finishing things properly, writing code that's easy to reason about, and not shipping 80%.
 
-  When I'm not coding — cooking something slow, listening to Radiohead, or writing things that sat in drafts for too long.
-
   ---
 
   ### Stack
