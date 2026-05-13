@@ -9,7 +9,7 @@
 
   ### About
 
-  Software craftsman with 5+ years of experience. I care about finishing things properly, writing code that's easy to reason about, and not shipping 80%.
+  Software craftsman with 8+ years of experience. I care about finishing things properly, writing code that's easy to reason about, easy to understand and as simple as possible.
 
   ---
 
